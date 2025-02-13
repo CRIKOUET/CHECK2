@@ -59,3 +59,29 @@ foreach ($User in $Users)
     # Q.2.9  Affiche un message en rouge si l'utilisateur existe déjà
         Write-Host "Le compte $Name existe déjà" -ForegroundColor Red
 }
+Q.2.1
+![A](https://i.imgur.com/b9Uldln.png)
+
+Q.2.2
+![B](https://i.imgur.com/62dIR6J.png)
+
+Q.2.3
+
+![C](https://i.imgur.com/xeRUxIR.png)
+
+Q.2.4 
+![D](https://i.imgur.com/f19peBI.png)
+Q.2.5
+![E](https://i.imgur.com/Cs6Vbuz.png)
+Q.2.6 
+![F](https://i.imgur.com/f19peBI.png)
+
+Q.2.9
+![G](https://i.imgur.com/FPz1iIX.png)
+
+Q.2.10
+![H](https://i.imgur.com/fMLT6p7.png)
+
+Q.2.11
+![I](https://i.imgur.com/fMLT6p7.png)
+
